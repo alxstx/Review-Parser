@@ -1,5 +1,5 @@
-Как запускать парсеры:
+how to start parsers:
 1. pip3 install -r requirements.txt
-2. python имяфайла
-До этого надо иметь json файл со ссылками либо именами мест(для гугл)
-Если при нажатии энтер(у всех кроме парсера гугла), ничего не происходить нажмите еще раз
+2. python filename
+Before that you need a json file with links or names of placec(for google)
+If after clicking enter, nothing happens - click again

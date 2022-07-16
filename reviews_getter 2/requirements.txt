@@ -1,0 +1,8 @@
+anticaptchaofficial==1.0.31
+beautifulsoup4==4.9.3
+lxml==4.6.2
+openpyxl==3.0.1
+requests==2.25.0
+selenium==3.141.0
+undetected-chromedriver==3.0.3
+urllib3==1.26.2
